@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Mangesh Mylvahanan\Laravel\E-Commerce\resources\views/Includes/footer.blade.php ENDPATH**/ ?>
